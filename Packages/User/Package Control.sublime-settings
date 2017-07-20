@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"AutoPEP8",
+		"Git",
+		"GitGutter",
+		"Markdown Preview",
+		"Package Control",
+		"Predawn",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pyyaml",
+		"Theme - Flatland",
+		"Theme - SoDaReloaded"
+	]
+}
